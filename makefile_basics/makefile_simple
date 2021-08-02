@@ -1,0 +1,2 @@
+print_msg:
+	@echo "Hello World"
